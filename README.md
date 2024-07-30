@@ -2,9 +2,9 @@
 
 ## Data Engineer and Software Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/your-github-username)
+![Profile Views](https://komarev.com/ghpvc/?username=KritinDMadhavan&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kritin-madhavan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/KritinDMadhavan)
 
 ### 🚀 About Me
 
@@ -17,16 +17,8 @@ I'm a dedicated computer science professional with a strong foundation in softwa
 
 ### 💻 Technical Skills
 
-```python
-skills = {
-    "Programming Languages": ["Python", "Golang", "Java", "C++"],
-    "Web Technologies": ["HTML5", "CSS3", "JavaScript", "React", "Django", "Flask"],
-    "Database Systems": ["SQL", "MongoDB", "PostgreSQL", "GraphQL"],
-    "Cloud Platforms": ["AWS", "Azure", "Google Cloud"],
-    "Version Control": ["Git", "GitHub"],
-    "Data Analysis Tools": ["Pandas", "NumPy", "Jupyter Notebooks"]
-}
-```
+Programming Languages: \[ Python, Golang, Java, C++\] - Web Technologies: \[ HTML5, CSS3, JavaScript, React, Django, Flask\] - Database Systems: \[ SQL, MongoDB, PostgreSQL, GraphQL\] - Cloud Platforms: \[ AWS, Azure, Google Cloud\] - Version Control: Git, GitHub - Data Analysis Tools: \[ Pandas, NumPy, Jupyter Notebooks\] Committed to continuous learning and skill enhancement, with a particular focus on \[mention specific areas of interest, e.g., machine learning, blockchain technology, cybersecurity\]. Actively engaged in staying abreast of industry trends and emerging technologies through participation in online courses, technical workshops, and developer communities. Demonstrated ability to: - Analyze complex client requirements and translate them into efficient technical solutions - Collaborate effectively within cross-functional teams to drive project success - Optimize data pipelines and improve system performance - Implement best practices in code quality, testing, and documentation Seeking opportunities to contribute to innovative projects that challenge the status quo and push the boundaries of technology. Passionate about leveraging technology to solve real-world problems and create meaningful impact. Open to collaboration on open-source projects and always excited to connect with fellow developers and industry professionals. Let's build the future of technology together!
+
 
 ### 🌟 Key Strengths
 
