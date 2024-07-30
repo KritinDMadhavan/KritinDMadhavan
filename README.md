@@ -46,11 +46,11 @@ I'm always excited to collaborate on open-source projects and connect with fello
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KritinDMadhavan&show_icons=true&theme=radical)
 
 ### 🛠️ Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritinDMadhavan&layout=compact&theme=radical)
 
 ---
 
