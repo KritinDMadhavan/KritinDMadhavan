@@ -32,7 +32,8 @@ Programming Languages: \[ Python, Golang, Java, C++\] - Web Technologies: \[ HTM
 I'm committed to continuous learning and skill enhancement, with a particular interest in:
 - Machine Learning
 - Blockchain Technology
-- Cybersecurity
+- Quantitative Finace
+- Data Engineering
 
 I actively stay abreast of industry trends and emerging technologies through online courses, technical workshops, and developer communities.
 
